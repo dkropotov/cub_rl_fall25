@@ -4,7 +4,7 @@ Unlike classical machine learning, in reinforcement learning, the algorithm does
 
 **Instructor**: Dmitry Kropotov
 
-**Timetable**: the classes are scheduled on Fridays in the classroom EH-8 at the time slot 10:30 - 13:15.
+**Timetable**: the classes are scheduled on Fridays in the classroom EH-8 at the time slot 09:45 - 12:30.
 
 **Telegram chat for questions and discussion**: [link](https://t.me/+d2i1n4ag8oE2N2Vi)
 
