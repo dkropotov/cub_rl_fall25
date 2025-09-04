@@ -8,7 +8,7 @@ Unlike classical machine learning, in reinforcement learning, the algorithm does
 
 **Telegram chat for questions and discussion**: [link](https://t.me/+d2i1n4ag8oE2N2Vi)
 
-**Assignments**: All assignments are given and checked in the corresponding Teams space
+**Assignments**: All assignments are given and checked in the corresponding Teams space. All assignments can be uploaded within one week after deadline with penalty 0.5 points per day.
 
 ## Course assessment
 
